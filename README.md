@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>
+    Hello! I am Thong.
+    <img
+        src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+        width="30px"
+    />
+</h1>
 
-<!--
-**nguyenduyminhthong/nguyenduyminhthong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    I am a student in <img src="CVIP.png" width="30" />
+    <a href="http://hcmiucvip.com/">
+        <b> Computer Vision and Image Processing laboratory </b>
+    </a>
+    at <i> International University. </i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a>
+    <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenduyminhthong&langs_count=10&theme=dracula&layout=compact"
+        width="350"
+    />
+</a>
