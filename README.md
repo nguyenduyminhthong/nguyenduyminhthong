@@ -1,9 +1,7 @@
 <h1>
     Hello! I am Thong.
-    <img
-        src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
-        width="30px"
-    />
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+        width="30px" />
 </h1>
 
 <p>
@@ -17,9 +15,7 @@
 ---
 
 <a>
-    <img
-        align="center"
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenduyminhthong&langs_count=10&theme=dracula&layout=compact"
-        width="350"
-    />
+        width="350" />
 </a>
